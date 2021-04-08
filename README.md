@@ -14,3 +14,23 @@ Por otro lado el Doctor como usuario puede registrar clientes, agendar citas, mo
 subir promociones, y consultar a los clientes.  
 
 Cómo instalar el repositorio en el equipo para desarrollo 
+
+1.Se crea un nuevo repositorio en Github 
+
+ [Se crea un nuevo repositorio en.docx](https://github.com/Verokeyty/ProyectoVista20-20/files/6276354/Se.crea.un.nuevo.repositorio.en.docx)
+
+
+2.Se realiza la clonación en Visual Studio Code, en view git:clone y damos entrer seleccionamos clone from github seleccionamos el nombre del repositorio como muestra la imagen. 
+
+ 
+
+3.Cuando clonamos vamos a la ruta donde esta nuestro proyecto y procuramos que todo el proyecto esté dentro de la carpera de clonación. 
+
+
+
+
+5.Cuando modificamos en nuestro proyecto y deseamos subir los cambios al repositorio guardamos y después click en la notificación en celeste marcada con color negro, agregamos el mensaje de nuestra modificación, damos guardar con el check marcado en azul y por último marcado en rojo para actualizar y que quede en nuestro repositorio de github.   
+
+ 
+
+
