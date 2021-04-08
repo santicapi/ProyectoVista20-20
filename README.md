@@ -24,7 +24,9 @@ Cómo instalar el repositorio en el equipo para desarrollo
 3.Cuando clonamos vamos a la ruta donde esta nuestro proyecto y procuramos que todo el proyecto esté dentro de la carpera de clonación. 
 
 
-5.Cuando modificamos en nuestro proyecto y deseamos subir los cambios al repositorio guardamos y después click en la notificación en celeste marcada con color negro, agregamos el mensaje de nuestra modificación, damos guardar con el check marcado en azul y por último marcado en rojo para actualizar y que quede en nuestro repositorio de github.   
+5.Cuando modificamos en nuestro proyecto y deseamos subir los cambios al repositorio guardamos y después click en la notificación en celeste marcada con color negro, agregamos el mensaje de nuestra modificación, damos guardar con el check marcado en azul y por último marcado en rojo para actualizar y que quede en nuestro repositorio de github.  
+
+Se adjunta el docuemto con los pasos de clonar y respaladar modificaciones 
 
  [Se crea un nuevo repositorio en.docx](https://github.com/Verokeyty/ProyectoVista20-20/files/6276354/Se.crea.un.nuevo.repositorio.en.docx)
 
