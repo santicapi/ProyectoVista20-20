@@ -72,7 +72,7 @@
 
                     <a class="btn btn-outline-semi-light btn-sm pr-4 pl-4" target="_top"
 
-                    href="/miproyecto/public/Pages.Auth.Login.Admin.User.php">Ingresar</a>
+                    href="Pages.Auth.Login.Admin.User.php">Ingresar</a>
 
                 </li>
 
@@ -112,7 +112,7 @@
 
                             <a class="btn btn-outline-semi-light btn-sm pr-4 pl-4" target="_top"
 
-                            href="/miproyecto/public/Pages.Auth.Login.Admin.User.php">Ingresar</a>
+                            href="Pages.Auth.Login.Admin.User.php">Ingresar</a>
 
                         </li>
 
@@ -167,7 +167,7 @@
 
                                     <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_blank"
 
-                                        href="/miproyecto/public/Pages.Auth.Login.Admin.User.php"> INGRESAR <i
+                                        href="Pages.Auth.Login.Admin.User.php"> INGRESAR <i
 
                                             class="simple-icon-arrow-right"></i></a>
 
@@ -179,7 +179,7 @@
 
                             <div class="col-12 col-xl-7 offset-xl-1 col-lg-7 col-md-6  d-none d-md-block">
 
-                                <a target="_blank" href="/miproyecto/public/Pages.Auth.Login.Admin.User.php">
+                                <a target="_blank" href="Pages.Auth.Login.Admin.User.php">
 
                                     <img alt="hero" src="img/landing-page/lentes-inicio.jpg" width="800" height="500" />
 
@@ -586,63 +586,116 @@
 
                     </div>
 
-                    <div class="row">
-                        <div class="column">
-                          <img src="img/servicios/1.webp" alt="servicio 1" width="400" height="400" style="border:0px;margin-left:90px; margin-bottom: 15px;">
-                          <h3 style="margin-left:90px; margin-bottom: 10px; text-align: center;">Examen Optométrico Completo</h3>
-                          <p style="margin-left:90px; text-align: center;">Ópticas Chavarría le ofrece diferentes<br>
-                             servicios para su salud y bienestar</p>
+
+                <div class="row">
+              <div class="col-12 p-0">
+                <div class="owl-container">
+                  <div class="owl-carousel home-carousel">
+                    <div class="card">
+                      <div class="card-body text-center">
+                        <div>
+                        <img src="img/servicios/1.webp" alt="servicio 1" width="250" height="250">
+                        <br>
+                          <h3>Examen Optométrico Completo</h3>
+                          <p class="detail-text">
+                          Ópticas Chavarría le ofrece diferentes
+                             servicios para su salud y bienestar
+                          </p>
                         </div>
-
-                        <div class="column">
-                            <img src="img/servicios/2.webp" alt="servicio 2" width="400" height="400" style="border:0px;margin-left:90px; margin-bottom: 15px;">
-                            <h3 style="margin-left:90px; margin-bottom: 10px; text-align: center;">Optometría Pediátrica</h3>
-                            <p style="margin-left:90px; text-align: center;">Examen de la vista para niños mayores<br>
-                                de 2 años, ortóptica y pleóptica.</p>
-                          </div>
-                        
-                          <div class="column">
-                            <img src="img/servicios/3.webp" alt="servicio 3" width="400" height="400" style="border:0px;margin-left:90px; margin-bottom: 15px;">
-                            <h3 style="margin-left:90px; margin-bottom: 10px; text-align: center;">Examines por Computadora</h3>
-                            <p style="margin-left:90px; text-align: center;">Examen de la vista por computadora<br>
-                                 y retinocopia manual.
-                            </p>
-                          </div>
-
                       </div>
-
-                      
-                      <div>
-
                       <br>
+                    </div>
+
+                    <div class="card">
+                      <div class="card-body text-center">
+                        <div>
+                        <img src="img/servicios/2.webp" alt="servicio 2" width="250" height="250">
+                        <br>
+                          <h3>Optometría Pediátrica</h3>
+                          <br>
+                          <p class="detail-text">
+                          Examen de la vista para niños mayores
+                                de 2 años, ortóptica y pleóptica.
+                          </p>
+                        </div>
                       </div>
+                      <br>
+                    </div>
 
-                      <div class="row">
-                        <div class="column">
-                            <img src="img/servicios/4.webp" alt="servicio 1" width="400" height="400" style="border:0px;margin-left:90px; margin-bottom: 15px;">
-                            <h3 style="margin-left:90px; margin-bottom: 10px; text-align: center;">Adaptación de lente de contacto</h3>
-                            <p style="margin-left:90px; text-align: center;">Recomendación sobre el tipo de lente que<br>
-                                 mejor le va, y guía durante el tiempo que los<br>
-                                    ojos se acostumbren.</p>
-                          </div>
+                    <div class="card">
+                      <div class="card-body text-center">
+                        <div>
+                        <img src="img/servicios/3.webp" alt="servicio 3" width="250" height="250">
+                        <br>
+                          <h3>Examines por Computadora</h3>
+                          <br>
+                          <p class="detail-text">
+                          Examen de la vista por computadora
+                                 y retinocopia manual.
+                          </p>
+                        </div>
+                      </div>
+                      <br>
+                    </div>
 
-                        <div class="column">
-                            <img src="img/servicios/5.jpg" alt="servicio 2" width="400" height="400" style="border:0px;margin-left:90px; margin-bottom: 15px;">
-                            <h3 style="margin-left:90px; margin-bottom: 10px; text-align: center;">Terapias Oculares</h3>
-                            <p style="margin-left:90px; text-align: center;">Terapias personalizadas para cada paciente.</p>
-                          </div>
-                        
-                          <div class="column">
-                            <img src="img/servicios/6.webp" alt="servicio 3" width="400" height="400" style="border:0px;margin-left:90px; margin-bottom: 15px;">
-                            <h3 style="margin-left:90px; margin-bottom: 10px; text-align: center;">Seguimiento Personalizado de Pacientes</h3>
-                            <p style="margin-left:90px; text-align: center;">Dentro de nuestro protocolo interno, personalizamos<br>
+                    <div class="card">
+                      <div class="card-body text-center">
+                        <div>
+                        <img src="img/servicios/4.webp" alt="servicio 4" width="250" height="250">
+                        <br>
+                          <h3>Adaptación de lente de contacto</h3>
+                          <p class="detail-text">
+                          Recomendación sobre el tipo de lente que
+                                 mejor le va, y guía durante el tiempo que los
+                                    ojos se acostumbren.
+                          </p>
+                        </div>
+                      </div>
+                      
+                    </div>
+
+                    <div class="card">
+                      <div class="card-body text-center">
+                        <div>
+                        <img src="img/servicios/5.jpg" alt="servicio 5" width="250" height="250">
+                        <br>
+                          <h3>Terapias Oculares</h3>
+                          <br>
+                          <p class="detail-text">
+                          Terapias personalizadas para cada paciente.
+                          </p>
+                        </div>
+                      </div>
+                      <br>
+                    </div>
+
+                    <div class="card">
+                      <div class="card-body text-center">
+                        <div>
+                        <img src="img/servicios/6.webp" alt="servicio 6" width="250" height="250">
+                        <br>
+                          <h3>Seguimiento Personalizado de Pacientes</h3>
+                          <p class="detail-text">
+                          Dentro de nuestro protocolo interno, personalizamos
                                  la consulta para cada edad, ocupación y necesidad.
-                            </p>
-                          </div>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
 
-                       
+                   
 
-                       </div> 
+            
+
+
+                  </div>
+                </div>
+              </div>
+            </div>
+                <br>
+                <br>
+                <br>
+                        
 
                 </div>
 
@@ -674,7 +727,7 @@
                             <div class="col-12 offset-0 col-lg-8 offset-lg-2 text-center">
                                 <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_blank"
 
-                                href="/miproyecto/public/Pages.Auth.CitaCliente.php">AGENDAR CITA</a>
+                                href="Pages.Auth.CitaCliente.php">AGENDAR CITA</a>
 
                     </div>
                     <br>
@@ -857,16 +910,18 @@
                                 </div>
                                     <br>
                                     <br>
-                                    <br>
 
                                     <div class="row mb-5">
                                         <div class="col-12 offset-0 col-lg-8 offset-lg-2 text-center">
-                                    <h3 style>Ubicación</h3>
+                                    <h2 style>Ubicación</h2>
                                 </div>
                             </div>
 
                                     <div class="col-contact column column-padding col-md-4">
-                                        <img alt="foto mapa" width="870" height="650" src="img/landing-page/mapa.PNG" />
+                                    <p>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.0198836421664!2d-84.1024412853851!3d9.932301792897558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0e3533f39fa3f%3A0x77c3d7523b555c4f!2zw5NwdGljYXMgQ2hhdmFycsOtYQ!5e0!3m2!1ses!2scr!4v1617949792151!5m2!1ses!2scr" width="800" height="600" style="border:0; margin:40px;" allowfullscreen="" loading="lazy"></iframe>
+                                    </p>
+
                                     </div>
                                   
 
@@ -874,20 +929,6 @@
 
                         </div>
                         
-
-                        
-
-
-
-                            <div class="col-12 mb-5">
-
-                            </div>
-
-                            <div class="col-12 mb-5">
-
-                            </div>
-
-
 
 
 
