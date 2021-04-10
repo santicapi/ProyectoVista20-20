@@ -25,12 +25,14 @@ Cómo instalar el repositorio en el equipo para desarrollo
 ![Captura1](https://user-images.githubusercontent.com/54158260/114258747-0dbba200-9986-11eb-8a55-3d57d2808035.JPG)
 
 
-2.Se realiza la clonación en Visual Studio Code, en view git:clone y damos entrer seleccionamos clone from github seleccionamos el nombre del repositorio como muestra la imagen. 
+2.Se realiza la clonación en Visual Studio Code, en view git:clone y damos entrer seleccionamos clone from github seleccionamos el nombre del repositorio como muestra la imagen.
+ 
 ![Captura2](https://user-images.githubusercontent.com/54158260/114258748-0e543880-9986-11eb-9c6a-08fa7319ecc4.JPG)
 
 
 
-3.Cuando clonamos vamos a la ruta donde esta nuestro proyecto y procuramos que todo el proyecto esté dentro de la carpera de clonación. 
+3.Cuando clonamos vamos a la ruta donde esta nuestro proyecto y procuramos que todo el proyecto esté dentro de la carpera de clonación.
+ 
 ![Captura3](https://user-images.githubusercontent.com/54158260/114258749-0eeccf00-9986-11eb-8c6f-c82ba76f6e85.JPG)
 
 5.Cuando modificamos en nuestro proyecto y deseamos subir los cambios al repositorio guardamos y después click en la notificación en celeste marcada con color negro, agregamos el mensaje de nuestra modificación, damos guardar con el check marcado en azul y por último marcado en rojo para actualizar y que quede en nuestro repositorio de github.  
