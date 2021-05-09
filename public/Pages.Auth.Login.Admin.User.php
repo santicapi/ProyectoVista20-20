@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="font/iconsmind-s/css/iconsminds.css" />
     <link rel="stylesheet" href="font/simple-line-icons/css/simple-line-icons.css" />
-
+    <link rel="shortcut icon" href="logos/logo.png" />
     <link rel="stylesheet" href="css/vendor/bootstrap.min.css" />
     <link rel="stylesheet" href="css/vendor/bootstrap.rtl.only.min.css" />
     <link rel="stylesheet" href="css/vendor/bootstrap-float-label.min.css" />
@@ -42,17 +42,28 @@
                                 <br>
                                 
                                 
-                                <div class="d-flex justify-content-between align-items-center" style="margin-bottom: 30px;">
-                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_blank"
-
-                                        href="Pages.Auth.Login.User.php">INGRESAR COMO CLIENTE</a>
-                                </div>
+                               
                                 
-                                <div class="d-flex justify-content-between align-items-center" style="margin-bottom: 30px;">
-                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_blank"
+                                <form>
+                                <label class="form-group has-float-label mb-4">
+                                    <input class="form-control" />
+                                    <span>Usuario</span>
+                                </label>
 
-                                        href="Pages.Auth.Login.Admin.php">INGRESAR COMO ADMINISTRADOR</a>
+                                <label class="form-group has-float-label mb-4">
+                                    <input class="form-control" type="password" placeholder="" />
+                                    <span>Contraseña</span>
+                                </label>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <a href="Pages.Auth.ForgotPassword.php">¿Olvidó su Contraseña?</a>
+                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top"
+
+                                    href="Dashboard.AdministradorGeneral.php">INGRESAR</a>
+                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top"
+
+                                    href="Dashboard.Cliente.php">INGRESAR(*)</a>
                                 </div>
+                            </form>
                                 <div>
                                     <br>
                                     <br>

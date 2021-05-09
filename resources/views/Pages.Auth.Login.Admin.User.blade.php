@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="font/iconsmind-s/css/iconsminds.css" />
     <link rel="stylesheet" href="font/simple-line-icons/css/simple-line-icons.css" />
-
+    <link rel="shortcut icon" href="logos/logo.png" />
     <link rel="stylesheet" href="css/vendor/bootstrap.min.css" />
     <link rel="stylesheet" href="css/vendor/bootstrap.rtl.only.min.css" />
     <link rel="stylesheet" href="css/vendor/bootstrap-float-label.min.css" />
@@ -43,13 +43,13 @@
                                 
                                 
                                 <div class="d-flex justify-content-between align-items-center" style="margin-bottom: 30px;">
-                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_blank"
+                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top"
 
                                         href="Pages.Auth.Login.User.php">INGRESAR COMO CLIENTE</a>
                                 </div>
                                 
                                 <div class="d-flex justify-content-between align-items-center" style="margin-bottom: 30px;">
-                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_blank"
+                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top"
 
                                         href="Pages.Auth.Login.Admin.php">INGRESAR COMO ADMINISTRADOR</a>
                                 </div>

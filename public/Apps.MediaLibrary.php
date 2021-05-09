@@ -78,14 +78,14 @@
                             <span>Registro Cliente</span>
                         </a>
                     </li>
-                    <li>
-                        <a href="#Actualización">
-                            <i class="iconsminds-hipster-men"></i> Paciente
+                    <li class="active">
+                        <a href="Apps.MediaLibrary.php">
+                            <i class="iconsminds-photo"></i>Fotos
                         </a>
                     </li>
                     
                     <li>
-                        <a href="#promos">
+                        <a href="Apps.MediaLibrary.Promociones.php">
                             <i class="iconsminds-shopping-bag"></i>Promociones
                         </a>
                     </li>
@@ -98,7 +98,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="mb-3">
-                        <h1>Fotos</h1>
+                        <h1>Fotos de Productos</h1>
                         <div class="text-zero top-right-button-container">   
                         </div>
                     </div>

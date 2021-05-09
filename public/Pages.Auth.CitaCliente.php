@@ -73,7 +73,13 @@
                     </div>
                     <div class="form-group mb-3">
                         <label>Elegir fecha disponible:</label>
-                        <input class="form-control datepicker" placeholder="Fecha">
+                        <div class="input-group date">
+                                            <input type="text" class="form-control">
+                                            <span class="input-group-text input-group-append input-group-addon">
+
+                                                <i class="simple-icon-calendar"></i>
+                                            </span>
+                                        </div>
                             <div class="invalid-tooltip">
                                 Espacio requerido!
                             </div>

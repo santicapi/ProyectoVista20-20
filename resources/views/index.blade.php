@@ -14,7 +14,7 @@
     <meta name="keywords" content="ópticas chavarría, ópticas chavarria, ópticas chavarria costa rica, dr. alexis chavarria, dr. alexis chavarría, lentes, óptica costa rica, salud visual,">
     <link rel="shortcut icon" href="logos/logo.png"  />
     <link rel="stylesheet" href="{{ asset('font/iconsmind-s/css/iconsminds.css') }}" />
-
+    
     <link rel="stylesheet" href="{{ asset('font/simple-line-icons/css/simple-line-icons.css') }}" />
 
     <link rel="stylesheet" href="{{ asset('css/vendor/bootstrap-stars.css') }}" />
@@ -165,7 +165,7 @@
 
                                     </p>
 
-                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_blank"
+                                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top"
 
                                         href="Pages.Auth.Login.Admin.User.php"> INGRESAR <i
 
@@ -179,7 +179,7 @@
 
                             <div class="col-12 col-xl-7 offset-xl-1 col-lg-7 col-md-6  d-none d-md-block">
 
-                                <a target="_blank" href="Pages.Auth.Login.Admin.User.php">
+                                <a target="_top" href="Pages.Auth.Login.Admin.User.php">
 
                                     <img alt="hero" src="img/landing-page/lentes-inicio.jpg" width="800" height="500" />
 
@@ -725,7 +725,7 @@
 
                         <div class="row mb-5">
                             <div class="col-12 offset-0 col-lg-8 offset-lg-2 text-center">
-                                <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_blank"
+                                <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top"
 
                                 href="Pages.Auth.CitaCliente.php">AGENDAR CITA</a>
 
@@ -910,9 +910,10 @@
                                 </div>
                                     <br>
                                     <br>
-
+                                    
                                     <div class="row mb-5">
                                         <div class="col-12 offset-0 col-lg-8 offset-lg-2 text-center">
+                                        <br>
                                     <h2 style>Ubicación</h2>
                                 </div>
                             </div>
@@ -1049,6 +1050,8 @@
     <script src="js/vendor/landing-page/jquery.autoellipsis.js"></script>
 
     <script src="js/dore.scripts.landingpage.js"></script>
+
+    <script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(172592)</script> 
 
     <script src="js/scripts.js"></script>
 
