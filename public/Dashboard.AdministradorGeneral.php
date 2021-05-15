@@ -148,6 +148,11 @@
                             <i class="iconsminds-shopping-bag"></i>Promociones
                         </a>
                     </li>
+                    <li>
+                        <a href="Dashboard.AdministradorBitacora.php">
+                            <i class="iconsminds-big-data"></i>Consulta Bitácora
+                        </a>
+                    </li>
             </div>
         </div>
     </div>

@@ -204,3 +204,9 @@ function loadStyle(href, callback) {
     }
   });
 })(jQuery);
+
+$(document).ready(function() {
+  $('#tablaBitacora').DataTable( {
+      "order": [[ 3, "desc" ]]
+  } );
+} );

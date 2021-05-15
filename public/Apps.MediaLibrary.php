@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Ópticas Chavarría</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
+
     <link rel="shortcut icon" href="logos/logo.png" />
     <link rel="stylesheet" href="font/iconsmind-s/css/iconsminds.css" />
     <link rel="stylesheet" href="font/simple-line-icons/css/simple-line-icons.css" />
@@ -42,8 +42,8 @@
                 </svg>
             </a>
             <div>
-            <img class="center-block" src="logos/opt-icon.png"alt="Solvetic" width="100" height="70" style="margin-right: 40px;">
-            
+                <img class="center-block" src="logos/opt-icon.png" alt="Solvetic" width="100" height="70" style="margin-right: 40px;">
+
             </div>
 
             <div class="search" data-search-path="Pages.Search.html?q=">
@@ -52,21 +52,19 @@
                     <i class="simple-icon-magnifier"></i>
                 </span>
 
-                
+
             </div>
 
-           
 
-            
+
+
         </div>
-        
+
         <div class="d-flex align-items-center navbar-left">
-        <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top"
-        
-            href="index.php">Cerrar Sesión</a>
+            <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top" href="index.php">Cerrar Sesión</a>
         </div>
-  
-           
+
+
     </nav>
     <div class="menu">
         <div class="main-menu">
@@ -83,23 +81,28 @@
                             <i class="iconsminds-photo"></i>Fotos
                         </a>
                     </li>
-                    
+
                     <li>
                         <a href="Apps.MediaLibrary.Promociones.php">
                             <i class="iconsminds-shopping-bag"></i>Promociones
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Dashboard.AdministradorBitacora.php">
+                            <i class="iconsminds-big-data"></i>Consulta Bitácora
                         </a>
                     </li>
             </div>
         </div>
     </div>
 
-    <main>  
-    <div class="container-fluid library-app">
+    <main>
+        <div class="container-fluid library-app">
             <div class="row">
                 <div class="col-12">
                     <div class="mb-3">
                         <h1>Fotos de Productos</h1>
-                        <div class="text-zero top-right-button-container">   
+                        <div class="text-zero top-right-button-container">
                         </div>
                     </div>
 
@@ -110,7 +113,7 @@
             <div class="row">
                 <div class="col-12 col-xl-4 drop-area-container">
                     <div class="card drop-area">
-                    
+
                         <div class="card-body">
                             <form action="/file-upload">
                                 <div class="dropzone ">
@@ -120,11 +123,9 @@
                     </div>
                     <br>
                     <br>
-                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top"
+                    <a class="btn btn-secondary btn-xl mr-2 mb-2" target="_top" href="#subirImagen">Subir Imágenes</a>
 
-                    href="#subirImagen">Subir Imágenes</a>
-    
-                    
+
                 </div>
                 <div class="col-12 col-xl-8 list disable-text-selection" data-check-all="checkAll">
                     <div class="row">
@@ -132,12 +133,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-1.webp" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-1.webp" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="#imagen1" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-1.webp</p>
                                         </a>
@@ -156,12 +155,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container ">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-2.webp" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-2.webp" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-2.webp</p>
                                         </a>
@@ -180,12 +177,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-3.jpg" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-3.jpg" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-3.jpg</p>
                                         </a>
@@ -204,12 +199,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-4.webp" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-4.webp" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-4.webp</p>
                                         </a>
@@ -228,12 +221,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-5.webp" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-5.webp" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-5.webp</p>
                                         </a>
@@ -252,12 +243,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-6.jpg" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-6.jpg" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-6.jpg</p>
                                         </a>
@@ -276,12 +265,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-7.jpg" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-7.jpg" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-7.jpg</p>
                                         </a>
@@ -300,12 +287,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-8.jpg" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-8.jpg" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-8.jpg</p>
                                         </a>
@@ -324,12 +309,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-9.jpg" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-9.jpg" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-9.jpg</p>
                                         </a>
@@ -348,12 +331,10 @@
                         <div class="col-xxl-4 col-xl-6 col-12">
                             <div class="card d-flex flex-row mb-4 media-thumb-container">
                                 <a class="d-flex align-self-center" href="Apps.MediaLibrary.ViewImage.html">
-                                    <img src="img/products/lente-10.webp" alt="uploaded image"
-                                        class="list-media-thumbnail responsive border-0" />
+                                    <img src="img/products/lente-10.webp" alt="uploaded image" class="list-media-thumbnail responsive border-0" />
                                 </a>
                                 <div class="d-flex flex-grow-1 min-width-zero">
-                                    <div
-                                        class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
+                                    <div class="card-body align-self-center d-flex flex-column justify-content-between min-width-zero align-items-lg-center">
                                         <a href="Apps.MediaLibrary.ViewImage.html" class="w-100">
                                             <p class="list-item-heading mb-1 truncate">lente-10.webp</p>
                                         </a>
@@ -414,10 +395,10 @@
             </div>
         </div>
 
-                    
-        
-            
-               
+
+
+
+
     </main>
 
 
