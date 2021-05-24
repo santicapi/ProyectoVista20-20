@@ -160,7 +160,7 @@
                             <table id="tablaBitacora" class="table table-striped table-bordered" style="width:100%" >
                                 <thead>
                                     <tr>
-                                        <th >Fecha</th>
+                                        <th>Fecha</th>
                                         <th>Usuario</th>
                                         <th>Opción</th>
                                         <th>Acción</th>
