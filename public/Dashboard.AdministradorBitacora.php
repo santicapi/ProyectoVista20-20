@@ -153,8 +153,6 @@
                             <button type="submit" class="btn btn-primary mb-0">Limpiar</button>
                         </div>
                     </div>
-
-
                     <div class="form-row">
                         <div class="form-group col-md-10">
                             <table id="tablaBitacora" class="table table-striped table-bordered" style="width:100%" >
